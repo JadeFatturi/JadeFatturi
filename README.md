@@ -7,8 +7,7 @@
 
 <h2>Conecte-se comigo</h2>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JadeFatturi)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/Zade#5823) <br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JadeFatturi)<br>
 
 <h2>Ferramentas</h2>
 <div style="display: inline_block" valign="top" dir="auto">
@@ -19,8 +18,8 @@
 <img aling= "center" alt= "git" src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor"/>
 <img aling= "center" alt= "github" src="https://icongr.am/devicon/github-original.svg?size=33&color=19b3d2"/></div><br>
 
-![Jade GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeFatturi&show_icons=true&theme=dracula) 
+![Jade GitHub stats](https://github-readme-stats.vercel.app/api?username=jadeFatturi&show_icons=true&theme=dracula) 
 
 <!--
-![Jade Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeFatturi&layout=compact&show_icons=true&theme=dracula)
+![Jade Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeFatturi&layout=compact&show_icons=true&theme=dracula)
 -->

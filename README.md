@@ -20,6 +20,6 @@
 
 ![Jade GitHub stats](https://github-readme-stats.vercel.app/api?username=jadeFatturi&show_icons=true&theme=dracula) 
 
-<!--
+
 ![Jade Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeFatturi&layout=compact&show_icons=true&theme=dracula)
--->
+

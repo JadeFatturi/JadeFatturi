@@ -8,7 +8,7 @@ runs:
 
 inputs:
   github_user_name: JadeFatturi
-    description: "github user name"
+    description: JadeFatturi
     required: true
   gif_out_path:
     description: "path of the generated gif file. If left empty, the gif file will not be generated."

@@ -7,8 +7,8 @@ runs:
   image: "docker://platane/snk:latest"
 
 inputs:
-  github_user_name: "JadeFatturi"
-    description: "JadeFatturi"
+  github_user_name: "jadeFatturi"
+    description: "jadeFatturi"
     required: true
   gif_out_path:
     description: "path of the generated gif file. If left empty, the gif file will not be generated."

@@ -23,3 +23,4 @@
 
 ![Jade Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeFatturi&layout=compact&show_icons=true&theme=dracula)
 
+![Snake](https://github.com/jadeFattur/jadeFatturi/blob/output/github-contribution-grid-snake.svg)

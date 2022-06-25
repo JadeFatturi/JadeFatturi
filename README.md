@@ -7,7 +7,7 @@
 
 <h2>Conecte-se comigo</h2>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JadeFatturi)<br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)<br>
 
 <h2>Ferramentas</h2>
 

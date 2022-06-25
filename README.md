@@ -25,4 +25,4 @@
 
 ![Jade Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeFatturi&layout=compact&show_icons=true&theme=radical)
 
- <p align="center"><img align="center" src="https://github.com/JadeFatturi/JadeFatturi/blob/output/github-contribution-grid-snake.svg"/></p>
+ <p align="center"><img align="center"src="https://github.com/JadeFatturi/JadeFatturi/blob/output/github-contribution-grid-snake.svg"/></p>

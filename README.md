@@ -20,4 +20,4 @@
 ![Jade GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeFatturi&theme=radical&count_private=true&show_icons=true)
 
 
-![Snake animation] (https://github.com/JadeFatturi/JadeFatturi/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/JadeFatturi/JadeFatturi/blob/output/github-contribution-grid-snake-dark.svg)

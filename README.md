@@ -1,9 +1,5 @@
 <h2>Olá! Eu Sou a Jade Fatturi ✌(ツ)</h2><br>
 
-🤓 Apaixonada pelo universo gamer 🎮 🕹️👾🧩<br>
-👩‍💻 Estudando para me tornar uma Dev <br>
-👩‍🎓 Formada em Administração de empresas<br>
-📫 Como entrar em contato comigo: envie um e-mail para 💌: jade.fatturi@hotmail.com<br>
 
 <h2>Conecte-se comigo</h2>
 

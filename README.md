@@ -19,6 +19,6 @@
 
 ![Jade GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeFatturi&theme=radical&count_private=true&show_icons=true)
 
-![Jade Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeFatturi&layout=compact&show_icons=true&theme=radical)
 
- <p align="center"><img align="center"src="https://github.com/JadeFatturi/JadeFatturi/blob/output/github-contribution-grid-snake.svg"/></p>
+![Snake animation](https://raw.githubusercontent.com/{JadeFatturi}/{JadeFatturi}/output/github-contribution-grid-snake-dark.svg)
+
